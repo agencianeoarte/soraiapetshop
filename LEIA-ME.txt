@@ -1,0 +1,57 @@
+SORAIA PET STORE — SITE ONE PAGE DEMONSTRATIVO
+Desenvolvido pela Neo Arte — Novembro de 2026
+
+1. COMO ABRIR
+   Extraia o ZIP. Abra index.html em um navegador moderno.
+   Para colocar na hospedagem, envie todo o CONTEÚDO da pasta
+   soraia_pet_store_onepage para public_html (index.html, styles.css,
+   script.js, config.js e a pasta assets).
+   Também funciona no GitHub Pages: use index.html na raiz do repositório.
+
+2. O QUE ESTÁ INCLUÍDO
+   - HTML5 semântico e SEO básico com dados estruturados
+   - CSS responsivo para desktop, tablet e celular
+   - JavaScript para menu, links de WhatsApp e formulário
+   - Imagens locais em WebP, leveza e carregamento otimizado
+   - Contato, avaliações, mapa, perguntas frequentes e serviços
+   - Arquivo config.js para mudar o WhatsApp em um único lugar
+
+3. CONFIGURE O WHATSAPP ANTES DE PUBLICAR
+   Abra config.js e altere whatsapp: '5545999866577' para o
+   número CONFIRMADO pela empresa. O número foi encontrado em um
+   cadastro público, mas ainda não foi validado diretamente com ela.
+   Exemplo: 55 + DDD + celular, somente números, sem espaços.
+   Todos os links e o formulário usam esse número automaticamente.
+
+4. INFORMAÇÕES COMERCIAIS A CONFIRMAR
+   - Nome oficial e logomarca original (o símbolo de pata é provisório).
+   - WhatsApp para orçamento/agendamento.
+   - Dias/horários de atendimento.
+   - Serviços disponíveis, marcas, preços e serviços veterinários.
+   - Fotos e textos oficiais; todas as imagens atuais são CONCEITUAIS,
+     geradas a partir do mockup aprovado, NÃO fotos da empresa.
+   - Avaliações: nota exibida de 4,9 consultada em novembro/2026;
+     confirme se o valor continua atual antes da publicação oficial.
+   - Links oficiais do Instagram/Facebook, se desejados.
+   - autorização/aceite do cliente antes de usar como site oficial.
+
+5. INFORMAÇÕES DE FONTE PÚBLICA
+   Endereço: Rua Maranhão, 1264 - Centro - Cascavel/PR 85801-050
+   Contatos encontrados: (45) 99986-6577 e (45) 3035-3671
+   Fontes: Google Maps, ACIC (Associação Comercial de Cascavel),
+   e cadastros empresariais públicos consultados em novembro de 2026.
+
+6. OBSERVAÇÕES IMPORTANTES
+   - O formulário monta uma mensagem e abre o WhatsApp; não há banco de
+     dados, armazenamento nem envio automático de mensagens.
+   - O mapa depende de acesso à internet.
+   - A pontuação de PageSpeed deve ser testada APÓS a publicação.
+   - A página é demonstrativa e não representa contratação concluída.
+
+Estrutura:
+  index.html
+  styles.css
+  script.js
+  config.js
+  LEIA-ME.txt
+  assets/*.webp + favicon
